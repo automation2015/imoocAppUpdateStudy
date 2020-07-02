@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../asProject.iml" filepath="$PROJECT_DIR$/../asProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocappupdate.iml" filepath="$PROJECT_DIR$/imoocappupdate.iml" />
+    </modules>
+  </component>
+</project>
